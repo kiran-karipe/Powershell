@@ -1,6 +1,0 @@
-It is often necessary to split a string into pieces based on several different (potentially multi-character) separator strings, while still retaining the information about which separators were present in the input.
-
-This is particularly useful when doing small parsing tasks. 
-The task is to write code to demonstrate this.
-
-The function (or procedure or method, as appropriate) should take an input string and an ordered collection of separators.
